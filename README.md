@@ -77,10 +77,10 @@ Other ingestion helpers: `data/scripts/fetch_sample_data.py`.
 
 | Student ID | Name | Role |
 |------------|------|------|
+| 6810424021 | Notapat Dachanabhirom | IT Lead |
 | 6810414002 | Nittakarn Ratapisanpong | Mgmt Member |
 | 6810424006 | Apisit Rattanasangsan | Mgmt Member |
 | 6810424007 | Chanwit Sangsri | Mgmt Member |
 | 6810424013 | Narongrit Bureeruk | Mgmt Member |
-| 6810424021 | Notapat Dachanabhirom | IT Lead |
 | 6810424026 | Bhumin Thiewsungnoen | Mgmt Member |
 
