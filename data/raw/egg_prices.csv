@@ -1,0 +1,14 @@
+date,price_thb_per_kg,region,source
+2026-01-01,82.0,thailand_reference,thai_egg_price_base
+2026-01-08,84.5,thailand_reference,thai_egg_price_base
+2026-01-15,83.0,thailand_reference,thai_egg_price_base
+2026-01-22,88.0,thailand_reference,thai_egg_price_base
+2026-01-29,91.0,thailand_reference,thai_egg_price_base
+2026-02-05,93.5,thailand_reference,thai_egg_price_base
+2026-02-12,92.0,thailand_reference,thai_egg_price_base
+2026-02-19,97.0,thailand_reference,thai_egg_price_base
+2026-02-26,99.0,thailand_reference,thai_egg_price_base
+2026-03-05,95.0,thailand_reference,thai_egg_price_base
+2026-03-12,93.0,thailand_reference,thai_egg_price_base
+2026-03-19,99.5,thailand_reference,thai_egg_price_base
+2026-03-26,102.0,thailand_reference,thai_egg_price_base
